@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eje1/Eje1.vcxproj" />
+  <Project Path="Eje2/Eje2.vcxproj" />
+  <Project Path="Eje3/Eje3.vcxproj" />
+  <Project Path="Eje4/Eje4.vcxproj" />
+  <Project Path="Eje5/Eje5.vcxproj" />
+  <Project Path="Eje6/Eje6.vcxproj" />
+  <Project Path="Eje7/Eje7.vcxproj" />
+  <Project Path="Eje8/Eje8.vcxproj" />
+  <Project Path="Eje9/Eje9.vcxproj" />
+  <Project Path="Taller120926/Taller120926.vcxproj" />
+</Solution>
