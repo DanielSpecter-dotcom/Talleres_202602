@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eje1/Eje1.vcxproj" />
+  <Project Path="Eje2/Eje2.vcxproj" />
+  <Project Path="Eje3/Eje3.vcxproj" />
+</Solution>
